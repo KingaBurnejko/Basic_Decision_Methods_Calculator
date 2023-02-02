@@ -1,0 +1,16 @@
+Optimistic Approach: building_HQ -> 41
+Pesimistic Approach: collaboration -> 34
+Laplace Method: collaboration -> 33
+Savage (least regret) Method: collaboration -> 9
+Hurwitz Method (criteria):
+
+
+
+
+
+
+
+
+
+
+
