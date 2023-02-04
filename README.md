@@ -28,10 +28,8 @@ First you have to either clone this project via `git clone` or download the zip 
 
 #### Backend
 
-To run backend navigate to backend folder and be sure that both cpp and python file are compiled and run (by using `g++ obliczenia.cpp -o obliczenia` and `./obliczenia` & `python3 main.py` and `./main` respectively)  `npm start` to install all required dependencies then run `npm install`
+To run backend navigate to backend folder and be sure that both cpp and python file are compiled and run (by using `g++ obliczenia.cpp -o obliczenia` and `./obliczenia` & `python3 main.py` and `./main` respectively)  `npm install` to install all required dependencies then run `npm start`
   
 #### Frontend
 
 To run frontend navigate to frontend folder and execute `npm install` to install all required dependencies then run `npm start` 
-
-
